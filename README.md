@@ -1,5 +1,5 @@
 Maintained by: Sujot Sasane
-GitHub: https://github.com/sujotsasane
+GitHub: https://github.com/sujot-sasane
 
 # SecFlow (Lite) — Developer-First Security Scanner Orchestrator (Python)
 

@@ -1,0 +1,9 @@
+[project]
+name = "secflow"
+version = "0.1.0"
+description = "Developer-first security scanner orchestrator"
+requires-python = ">=3.9"
+dependencies = ["typer", "rich", "pydantic"]
+
+[project.scripts]
+secflow = "secflow.cli:app"

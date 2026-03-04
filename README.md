@@ -1,3 +1,6 @@
+Maintained by: Sujot Sasane
+GitHub: https://github.com/sujotsasane
+
 # SecFlow (Lite) — Developer-First Security Scanner Orchestrator (Python)
 
 SecFlow is a lightweight CLI that **orchestrates multiple security scanners** and **normalizes results** into a single output,
@@ -53,5 +56,3 @@ A sample workflow is provided in `.github/workflows/secflow.yml`.
 - Secret verification heuristics (reduce false positives)
 - Dashboard exporter (e.g., push to ELK/OpenSearch)
 
-Maintained by: Sujot Sasane
-GitHub: https://github.com/sujotsasane
